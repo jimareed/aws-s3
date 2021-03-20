@@ -1,0 +1,13 @@
+{
+    "name": "raspi-s3",
+    "version": "0.0.1",
+    "private": true,
+    "description": "Upload a file to S3 from a Raspberry Pi",
+    "author": "Jim Reed",
+    "license": "MIT",
+    "dependencies": {
+        "aws-sdk": "^2.868.0"
+    },
+    "devDependencies": {},
+    "scripts": {}
+}
