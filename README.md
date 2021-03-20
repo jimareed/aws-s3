@@ -2,9 +2,9 @@
 Use [aws-sdk](https://www.npmjs.com/package/aws-sdk) to read a file from an S3 bucket.
 
 ## Setup
-1. Follow steps in [References 1](##References) to setup an S3 bucket and upload [sample.csv](./sample.csv)
-2. Follow steps in [References 3](##References) to create an AWS Access Key
-3. Follow steps in [References 4](##References) to create a local AWS credentials file
+1. Follow steps in [References 1](#References) to setup an S3 bucket and upload [sample.csv](./sample.csv)
+2. Follow steps in [References 3](#References) to create an AWS Access Key
+3. Follow steps in [References 4](#References) to create a local AWS credentials file
 4. Fetch this repo and run the following:
 ```
 npm install
